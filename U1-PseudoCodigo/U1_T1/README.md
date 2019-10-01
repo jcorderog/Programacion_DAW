@@ -58,31 +58,4 @@ Ejemplo:
 
 NOTA: Utilizar las funciones de pseint para generar los número aleatorios
 
-EJERCICIO 5 (ej5.psc)
 
-Realizar un algoritmo que contenga dos funciones para trabajar con vectores (arrays).
-
-- contiene. Recibirá dos parámetros, un array de enteros y un entero a buscar. Devolverá verdaderos si el entero está en el vector y falso en caso contrario.
-
-- ocurrencias. Recibirá dos parámetros, un array de enteros y un entero a buscar. Devolverá el número de ocurrencias de ese entero en el vector.
-
-El cuerpo del algoritmo llamará al menos dos veces a cada una de las funciones.
-
-
-Instruciones para la Entrga
-Entregar un archivo comprimido ( zip o rar) que contenga cada uno de los ficheros correspondientes a los ejercicios.
-
-Los ejercicios deberán llamarse ejX.psc siendo X el número de ejercicio.
-
-EL fichero comprimido se llamará Apellido1_Apellido2_U1_T1_Entrega.zip (o rar)
-
-Evita ñ y acentos en el nombre.
-
-Deberan subirse a gitHub los ficheros (sin comprimir( en la carpeta U1_T1_Pseudocodigo y se mandará un correo al profesor indicando la dirección de vuestro repositorio para el módulo.
-
- NOTA:
-Para cada uno de los ejercicios se bajará un 20% del mismo por cada error sintáctico corregido por el profesor para que el ejercicio pudiera funcionar correctamente.
-
-*******
- *****
-  ***
