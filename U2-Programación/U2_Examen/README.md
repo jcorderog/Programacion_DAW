@@ -11,32 +11,7 @@ La altura introducida no es correcta
 #### Ejemplo 2:
 Por favor, introduzca la altura (número impar mayor o igual a 5): 3
 La altura introducida no es correcta
-#### Ejemplo 3:
-Por favor, introduzca la altura (número impar mayor o igual a 5): 5
-MMMMMM
-M    M
-M    M
-MMMMMM
-M    M
-M    M
-MMMMMM
-#### Ejemplo 4:
-Por favor, introduzca la altura (número impar mayor o igual a 5): 9
-MMMMMM
-M    M
-M    M
-M    M
-M    M
-M    M
-M    M
-MMMMMM
-M    M
-M    M
-M    M
-M    M
-M    M
-M    M
-MMMMMM
+
 ## Ejercicio 2:
 Escribe un programa que permita partir un número introducido por teclado en dos
 partes. Las posiciones se cuentan de izquierda a derecha empezando por
