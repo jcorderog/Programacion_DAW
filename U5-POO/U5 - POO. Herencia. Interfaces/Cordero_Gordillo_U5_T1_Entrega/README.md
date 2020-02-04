@@ -1,4 +1,6 @@
-###EJERCICIO 1
+# U5 - POO. Herencia. Interfaces (19/20 - Mañana)
+
+### EJERCICIO 1
 
 Queremos gestionar información relativa a los vehículos que puede albergar un garaje.
 
@@ -16,8 +18,8 @@ Los Helicópteros y las Avionetas guardarán la altitud a la que están volando,
 
 Realiza un programa principal que realice las siguientes tareas:
 
-Crear  3 coches, 3 motos, un helicóptero y una avioneta.
-Los datos, obviamente, serán inventados.
-Mostrar ordenados los 3 coches y las 3 motos atendiendo a todos los criterios solicitados.
-Añadir 9 personas al helicóptero.
-Mostrar el contenido del helicóptero.
+*Crear  3 coches, 3 motos, un helicóptero y una avioneta.
+*Los datos, obviamente, serán inventados.
+*Mostrar ordenados los 3 coches y las 3 motos atendiendo a todos los criterios solicitados.
+*Añadir 9 personas al helicóptero.
+*Mostrar el contenido del helicóptero.
