@@ -6,7 +6,7 @@ Queremos gestionar información relativa a los vehículos que puede albergar un 
 
 Deberemos hacer todas esas clases en el mismo paquete. Los atributos de las clases sólo podrán ser accedidos desde la misma clase.
 
-El garaje contiene vehículos, en general, de los que se guarda el nombre del vehículo (Ej. "La Dorada", "La perla negra", etc) y el número de personas que puede transportar. Estos vehículos, pueden ser a su vez, de tipo Aéreo y Terrestre. De los vehículos Aéreos, puede haber Helicópteros y Avionetas. De los vehículos Terrestres puede haber Coches y Motocicletas.
+El garaje contiene vehículos, **en general**, de los que se guarda el nombre del vehículo (Ej. "La Dorada", "La perla negra", etc) y el número de personas que puede transportar. Estos vehículos, pueden ser a su vez, de tipo Aéreo y Terrestre. De los vehículos Aéreos, puede haber Helicópteros y Avionetas. De los vehículos Terrestres puede haber Coches y Motocicletas.
 
 Los Coches y las Motocicletas guardarán la matrícula (Ej. "9875PLJ"), el año de fabricación y el color (que pueden ser AZUL, AMARILLO, ROJO Y VERDE).
 
@@ -18,8 +18,8 @@ Los Helicópteros y las Avionetas guardarán la altitud a la que están volando,
 
 Realiza un programa principal que realice las siguientes tareas:
 
-*Crear  3 coches, 3 motos, un helicóptero y una avioneta.
-*Los datos, obviamente, serán inventados.
-*Mostrar ordenados los 3 coches y las 3 motos atendiendo a todos los criterios solicitados.
-*Añadir 9 personas al helicóptero.
-*Mostrar el contenido del helicóptero.
+* Crear  3 coches, 3 motos, un helicóptero y una avioneta.
+* Los datos, obviamente, serán inventados.
+* Mostrar ordenados los 3 coches y las 3 motos atendiendo a todos los criterios solicitados.
+* Añadir 9 personas al helicóptero.
+* Mostrar el contenido del helicóptero.
