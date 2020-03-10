@@ -25,6 +25,7 @@ La clase Concurso tiene que tener los siguientes metodos.
 * El método ownerDogs() que mostrará por pantalla todos los perros de un dueño determinado (sea de la raza que sean). Este método recibe como parámetro el número de socio de la Sociedad Canina y mostrará el mensaje "Este socio no tiene perros inscritos" en caso de que el socio no tenga ningún perro en este concurso.
 * El método perrosporPeso() que mostrará la lista de perros de una raza, que se recibe como parámetro, ordenados por peso de manera decreciente.
 * El método perrosporEdad() que mostrará la lista de perros de una raza, que se recibe como parámetro, ordenados por edad de manera decreciente.
+
 Como cuando hay un concurso las inscripciones de los mismos se realizan en varios días y para no perder todos los inscritos debemos también de tener dos métodos en la clase:
 
 * cargarPerros() que leerá todos los perros desde el fichero binario "perros.dat" y los colocará en el conjunto de perros de su raza.
