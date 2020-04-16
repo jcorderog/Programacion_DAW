@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehiculos>
+    <COCHE id="1">
+        <marca>BMW</marca>
+        <color>AZUL</color>
+        <potencia>300cv</potencia>
+    </COCHE>
+    <COCHE id="2">
+        <marca>Renault</marca>
+        <color>AMARILLO</color>
+        <potencia>90cv</potencia>
+    </COCHE>
+    <COCHE id="3">
+        <marca>Mercedes</marca>
+        <color>GRIS</color>
+        <potencia>250cv</potencia>
+    </COCHE>
+    <COCHE id="4">
+        <marca>Peugeot</marca>
+        <color>ROJO</color>
+        <potencia>110cv</potencia>
+    </COCHE>
+    <COCHE id="5">
+        <marca>Dacia</marca>
+        <color>GRIS</color>
+        <potencia>60cv</potencia>
+    </COCHE>
+    <MOTO id="6">
+        <marca>KTM</marca>
+        <color>ROJO</color>
+        <potencia>200cc</potencia>
+    </MOTO>
+    <MOTO id="7">
+        <marca>BMW</marca>
+        <color>GRIS</color>
+        <potencia>250cc</potencia>
+    </MOTO>
+    <MOTO id="8">
+        <marca>Ducati</marca>
+        <color>AMARILLO</color>
+        <potencia>300cc</potencia>
+    </MOTO>
+    <MOTO id="9">
+        <marca>Kawasaki</marca>
+        <color>AZUL</color>
+        <potencia>300cc</potencia>
+    </MOTO>
+    <MOTO id="10">
+        <marca>Suzuki</marca>
+        <color>NARANJA</color>
+        <potencia>100cc</potencia>
+    </MOTO>
+</vehiculos>
