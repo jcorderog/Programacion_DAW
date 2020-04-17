@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vehiculos>
+    <coche id="1">
+        <marca>Ford</marca>
+        <color>Azul</color>
+        <potencia>190cv</potencia>
+    </coche>
+    <coche id="2">
+        <marca>Mercedes</marca>
+        <color>Blanco</color>
+        <potencia>200cv</potencia>
+    </coche>
+    <coche id="3">
+        <marca>VolksWagen</marca>
+        <color>Negro</color>
+        <potencia>100cv</potencia>
+    </coche>
+    <coche id="4">
+        <marca>Seat</marca>
+        <color>Rojo</color>
+        <potencia>90cv</potencia>
+    </coche>
+    <coche id="5">
+        <marca>Renault</marca>
+        <color>Gris</color>
+        <potencia>90cv</potencia>
+    </coche>
+    <moto id="1">
+        <marca>Suzuki</marca>
+        <color>Gris</color>
+        <potencia>100cc</potencia>
+    </moto>
+    <moto id="2">
+        <marca>BMW</marca>
+        <color>Gris</color>
+        <potencia>150cc</potencia>
+    </moto>
+    <moto id="3"></moto>
+</vehiculos>
