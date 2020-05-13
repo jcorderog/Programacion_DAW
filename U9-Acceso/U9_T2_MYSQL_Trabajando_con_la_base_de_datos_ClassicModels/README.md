@@ -10,7 +10,7 @@ Debe tener:
 * una clase Office
 * una clase ConexionBD que siga el patrón Singleton. Consulta este enlace:
 
-https://hypsoftware.wordpress.com/2014/10/03/conexion-a-base-de-datos-mysql-con-singleton-pattern-java/ - automatic!
+https://hypsoftware.wordpress.com/2014/10/03/conexion-a-base-de-datos-mysql-con-singleton-pattern-java/
 
 * una clase de Acceso a Datos (clases AD) que se llame ADClassicModels. Esta clase tendrá:
 	* un constructor por defecto. (podemos no indicarlo expresamente y lo tendrá por defecto)
