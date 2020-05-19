@@ -72,7 +72,6 @@ public class ADClassicModels {
             statement.setFloat(13,customer.getCreditLimit());
 
             statement.executeUpdate();
-            con.close();
             return true;
         } catch (SQLException e) {
             System.out.println(e.getMessage());
@@ -123,9 +122,6 @@ public class ADClassicModels {
             statement.setInt(2,numCustom);
 
             statement.executeUpdate();
-
-            rs.close();
-            con.close();
             return true;
         } catch (SQLException e) {
             System.out.println(e.getMessage());
@@ -187,9 +183,6 @@ public class ADClassicModels {
             statement.setInt(5,orderLineNumber);
 
             statement.executeUpdate();
-
-            rs.close();
-            con.close();
             return true;
         } catch (SQLException e) {
             System.out.println(e.getMessage());
@@ -266,9 +259,6 @@ public class ADClassicModels {
             System.out.println("----------------------------");
             System.out.println("Total Precio Pedido = "+ rs.getFloat("Total")+" €");
             System.out.println("----------------------------");
-
-            rs.close();
-            con.close();
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
