@@ -26,7 +26,9 @@ public class ConexionBD {
 
     public static void close() {
         try {
-            con.close();
+            if (con != null){
+                con.close();
+            }
         } catch (SQLException e) {
             e.printStackTrace();
         }
